@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Iskonawa are an indigenous group living in the Peruvian Amazon. They are settled in the Comunidad Nativa Chachibai, Comunidad Nativa Calleria, and the city of Pucallpa(Ucayali, Peru). There are around 100 individuals who self-identify as Iskonawa, but only 22 have reported speaking the language as their mother tongue in the most recent national census (INEI 2017)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This indigenous group consists of the descendants of 25 Iskonawa who survived contact with the South American Mission in 1959. Prior to contact, the Iskonawa lived in the area around the Utuquinia headwaters, but moved to the Callería basin, an area surrounded by the Shipibo-Konibo settlements. Ever since, the Iskonawa language has lost vitality because of intergenerational transmission and speaking spaces have weakened against other languages (Shipibo-Konibo and Spanish)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "The Iskonawa People and Language",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-iskonawa-people-and-language",
+  "created_at": "2025-07-28T18:25:58.332Z",
+  "created_by": "rodriguezalzza",
+  "updated_at": "2025-07-28T18:25:58.332Z",
+  "updated_by": "rodriguezalzza"
+}
