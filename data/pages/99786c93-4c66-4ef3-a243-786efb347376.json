@@ -14,7 +14,8 @@
         {
           "text": "The Iskonawa are an indigenous group living in the Peruvian Amazon. They are settled in the Comunidad Nativa Chachibai, Comunidad Nativa Calleria, and the city of Pucallpa(Ucayali, Peru). There are around 100 individuals who self-identify as Iskonawa, but only 22 have reported speaking the language as their mother tongue in the most recent national census (INEI 2017)."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -22,7 +23,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -30,7 +32,8 @@
         {
           "text": "This indigenous group consists of the descendants of 25 Iskonawa who survived contact with the South American Mission in 1959. Prior to contact, the Iskonawa lived in the area around the Utuquinia headwaters, but moved to the Callería basin, an area surrounded by the Shipibo-Konibo settlements. Ever since, the Iskonawa language has lost vitality because of intergenerational transmission and speaking spaces have weakened against other languages (Shipibo-Konibo and Spanish)."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -56,15 +59,22 @@
           "text": ""
         }
       ],
-      "scale": 70
+      "scale": 70,
+      "align": "center"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Iskonawas en Callería (Foto: Victoria Carlos)",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": "\n\n"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -91,7 +101,7 @@
   "slug": "the-iskonawa-people-and-language",
   "created_at": "2025-07-28T18:25:58.332Z",
   "created_by": "rodriguezalzza",
-  "updated_at": "2025-07-28T18:32:44.656Z",
+  "updated_at": "2025-07-28T18:34:18.213Z",
   "updated_by": "rodriguezalzza",
   "parent": "d7e2bc18-6797-4f08-8e58-9b2817e18b97"
 }
