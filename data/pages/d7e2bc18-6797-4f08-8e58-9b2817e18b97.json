@@ -38,7 +38,26 @@
         {
           "text": ". Across these initiatives, there is a growing recognition of the ancestral language as essential to strengthening Iskonawa identity, particularly as a key marker of their cultural distinctiveness."
         }
-      ]
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Within these initiatives, a range of culturally based activities have taken place, in which people have remembered and used Iskonawa words in meaningful cultural contexts. This project highlights the terms that are reemerging through Iskonawa revitalization efforts, emphasizing their contexts of use to make visible the work of those reclaiming a language considered endangered. The value of these words within their cultural settings offers a way to approach the richness of the Iskonawa vocabulary—not merely as a list of dictionary entries, but as a living language still actively embedded in Iskonawa culture today."
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -52,12 +71,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Within these initiatives, a range of culturally based activities have taken place, in which people have remembered and used Iskonawa words in meaningful cultural contexts. This project highlights the terms that are reemerging through Iskonawa revitalization efforts, emphasizing their contexts of use to make visible the work of those reclaiming a language considered endangered. The value of these words within their cultural settings offers a way to approach the richness of the Iskonawa vocabulary—not merely as a list of dictionary entries, but as a living language still actively embedded in Iskonawa culture today."
+          "text": ""
         }
       ]
     },
     {
+      "type": "image",
+      "url": "https://cadernos.abralin.org/index.php/cadernos/article/downloadFullTextAssoc/237/11944/10451",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 62,
+      "align": "center"
+    },
+    {
       "type": "paragraph",
+      "children": [
+        {
+          "text": "Abuelo y nieta transcribiendo una narración Iskonawa",
+          "bold": true,
+          "italic": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "text": ""
@@ -108,7 +150,15 @@
           "bold": true
         },
         {
-          "text": " supported by the 2024 LLILAS Benson Digital Scholarship–AVAnnotate Project Fellowship.\n"
+          "text": " supported by the 2024 LLILAS Benson Digital Scholarship–AVAnnotate Project Fellowship."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -116,7 +166,7 @@
   "created_at": "2025-07-28T18:05:40.318Z",
   "created_by": "rodriguezalzza",
   "title": "Revitalizing Iskonawa Vocabulary",
-  "updated_at": "2025-07-28T21:01:03.481Z",
+  "updated_at": "2025-07-28T21:28:50.740Z",
   "updated_by": "rodriguezalzza",
   "autogenerate": {
     "enabled": false,
