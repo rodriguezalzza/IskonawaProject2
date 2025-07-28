@@ -4,6 +4,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Revitalizing Iskonawa Vocabulary",
+          "bold": true,
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Iskonawa revitalization efforts have emerged from grassroots initiatives led by youth, building upon earlier work and approaching language revitalization holistically. These efforts are closely tied to ethnic identity reclamation, land sovereignty, and cultural initiatives aimed at increasing visibility in a context dominated by larger Indigenous groups. One of the key grassroots organizations, the "
         },
         {
@@ -98,7 +116,7 @@
   "created_at": "2025-07-28T18:05:40.318Z",
   "created_by": "rodriguezalzza",
   "title": "Revitalizing Iskonawa Vocabulary",
-  "updated_at": "2025-07-28T20:55:56.473Z",
+  "updated_at": "2025-07-28T21:01:03.481Z",
   "updated_by": "rodriguezalzza",
   "autogenerate": {
     "enabled": false,
