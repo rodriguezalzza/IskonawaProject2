@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Carolina Rodríguez Alzza",
+          "bold": true
+        },
+        {
+          "text": " is a Ph.D. candidate in Linguistic Anthropology at the University of Texas at Austin (USA), affiliated with the Native American and Indigenous Studies Program and the Teresa Lozano Long Institute of Latin American Studies. Her research interests focus on the processes of Indigenous language reclamation and revitalization in multilingual contexts marked by interethnic dynamics. She combines this with a concern for the accessibility of linguistic and ethnographic archives for Indigenous communities. Her interest has led her to engage with the Digital Humanities, exploring ways to use archival materials to support the revitalization efforts of the Iskonawa people.\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Contributors",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "contributors",
+  "created_at": "2025-07-28T18:28:20.254Z",
+  "created_by": "rodriguezalzza",
+  "updated_at": "2025-07-28T18:28:20.254Z",
+  "updated_by": "rodriguezalzza"
+}
