@@ -7,15 +7,62 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Iskonawa revitalization efforts have emerged from grassroots initiatives led by youth, building upon earlier work and approaching language revitalization holistically. These efforts are closely tied to ethnic identity reclamation, land sovereignty, and cultural initiatives aimed at increasing visibility in a context dominated by larger Indigenous groups. One of the key grassroots organizations, the "
+        },
+        {
+          "text": "Organización para el Desarrollo y Bien Común del Pueblo Iskonawa",
+          "italic": true
+        },
+        {
+          "text": " (ODEBPI), was founded in 2021. Earlier, in 2019, group of women artisans established the "
+        },
+        {
+          "text": "Asociación de Artesanas Iskonawa Pari Awin",
+          "italic": true
+        },
+        {
+          "text": ". Across these initiatives, there is a growing recognition of the ancestral language as essential to strengthening Iskonawa identity, particularly as a key marker of their cultural distinctiveness."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Within these initiatives, a range of culturally based activities have taken place, in which people have remembered and used Iskonawa words in meaningful cultural contexts. This project highlights the terms that are reemerging through Iskonawa revitalization efforts, emphasizing their contexts of use to make visible the work of those reclaiming a language considered endangered. The value of these words within their cultural settings offers a way to approach the richness of the Iskonawa vocabulary—not merely as a list of dictionary entries, but as a living language still actively embedded in Iskonawa culture today."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
     }
   ],
   "created_at": "2025-07-28T18:05:40.318Z",
   "created_by": "rodriguezalzza",
-  "title": "Iskonawa xxx",
-  "updated_at": "2025-07-28T18:08:05.923Z",
+  "title": "Revitalizing Iskonawa Vocabulary",
+  "updated_at": "2025-07-28T18:26:30.227Z",
   "updated_by": "rodriguezalzza",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "revitalizing-iskonawa-vocabulary"
 }
