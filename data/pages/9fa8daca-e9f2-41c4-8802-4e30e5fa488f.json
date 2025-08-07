@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe exhibition is the result of the project \"Revitalizing Iskonawa Vocabulary: Bridging Language Archives to a Digital Exhibition,\" supported by the 2024 LLILAS Benson Digital Scholarship–AVAnnotate Project Fellowship."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe videos were documented with funding from the Language Legacies Grant by the Endangered Language Fund, as part of the project "
+        },
+        {
+          "text": "“Documentation of Narratives about Iskonawa Material Culture.”",
+          "italic": true
+        },
+        {
+          "text": " This grant supported the creation of a community-based team of Iskonawa artisans in Pucallpa and the Callería Native Community, who collaboratively recorded these videos in 2023."
+        }
+      ]
+    }
+  ],
+  "title": "Acknowledgments",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "acknowledgments",
+  "created_at": "2025-08-07T16:13:04.605Z",
+  "created_by": "rodriguezalzza",
+  "updated_at": "2025-08-07T16:13:04.605Z",
+  "updated_by": "rodriguezalzza"
+}
